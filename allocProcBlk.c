@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "p1test.c"
+#include "const.h"
+#include "pcb.h"
 
 
 /*I processi che non sono più in uso vengono restituiti alla lista tramite questa funzione. */

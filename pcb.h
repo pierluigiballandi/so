@@ -1,5 +1,3 @@
-//questo file è modificato e poi verrà rimosso
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "clist.h"

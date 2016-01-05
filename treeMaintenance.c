@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "p1test.c"
-
+#include "pcb.h"
+#include "const.h"
 
 int emptyChild(struct pcb_t *p);
 

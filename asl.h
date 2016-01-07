@@ -1,3 +1,4 @@
+//scemodimmerda
 #include "clist.h"
 
 struct semd_t {
